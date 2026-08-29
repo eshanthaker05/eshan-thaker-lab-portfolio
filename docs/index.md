@@ -1,4 +1,4 @@
-# MEGR 2156 — Design Projects I Laboratory
+# Eshan Thaker — MEGR 2157 Lab Portfolio
 
 > **Engineering is the art of making decisions you can defend.**
 
