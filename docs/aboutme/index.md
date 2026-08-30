@@ -6,5 +6,5 @@ My name is Eshan Thaker and I am currently studying to become a mechanical engin
 Since I've started college, I've joined the biomedical engineering society club, in which I have met a community of like-minded people to surround myself with. Most recently, I've helped create a computer keyboard designed for people with only one hand. This project challenged me to think creatively and solve a problem I've never faced before. In the end, it taught me a lot about what it takes to succeed in the engineering field. 
 
 ## Contact
-Reach out via [email](eshan.thaker@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/eshan-thaker/)
+Reach out via email at ethaker@charlotte.com or connect with me on [LinkedIn](https://www.linkedin.com/in/eshan-thaker/)
 
