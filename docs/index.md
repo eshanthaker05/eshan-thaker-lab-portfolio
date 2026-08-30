@@ -10,7 +10,7 @@
 Hi, I am Eshan Thaker and I am a 3rd year mechanical engineering student with a concentration in biomedical engineering studying at UNC Charlotte. I chose this field because it is the perfect blend between the medical science of biology and the hands-on work of engineering. I aim to find a career in which I can design devices that will improve people's health. 
 
 ## Quick Navigation
-- [About Me](https://github.com/eshanthaker05/eshan-thaker-lab-portfolio/blob/main/docs/aboutme/index.md)
+- [About Me](https://eshanthaker05.github.io/eshan-thaker-lab-portfolio/aboutme/)
 
 *MEGR 2156 — Design Projects I Laboratory | UNC Charlotte*
 *Terence J. Fagan, Ph.D. | tjfagan@charlotte.edu | Duke 394*
