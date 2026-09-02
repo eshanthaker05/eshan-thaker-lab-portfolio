@@ -34,11 +34,31 @@ Next, I hit "Export G-code" and saved the file onto my computer as shown above.
 
 ## Printing Process
 
-I used a PLA printer for this artifact. At first, I tried using printer 17, but it ended up being malfunctional so I resorted to using printer 14. 
+I used a PLA printer for this artifact. At first, I tried using printer 17, but it ended up being malfunctional so I resorted to using printer 14. I printed my artifact individually.  
 
 <img width="571" height="428" alt="IMG_2932" src="https://github.com/user-attachments/assets/d9ab4712-74f5-4ef5-ac4a-03a169f8ccfe" />
 
-I moved the G-file onto the usb drive and plugged it into printer 14. The image above shows the printer right before I hit print. 
+I moved the G-file onto the USB drive and plugged it into printer 14. The image above shows the printer right before I hit print. 
+
+
+<img width="571" height="428" alt="IMG_2937" src="https://github.com/user-attachments/assets/599188d4-c3b8-444d-b5ff-eabddd130468" />
+
+The image above shows the artifact once it was completed and still in the printer. 
+
+<img width="216" height="384" alt="4C9A9E57-150D-47B1-B759-243306818988" src="https://github.com/user-attachments/assets/a678053c-228a-4f67-a0a1-6582b82794dc" />
+
+The image above shows the artifact removed from the printing tray, fully completed. 
+
+## Lessons Learned 
+
+- I learned how to differentiate between some of the printers based on their nozzles and filaments. I did this when I was trying to print the G-code from the USB drive and the printer kept returning an error because I had the wrong printer chosen.
+
+- I learned how to change a single dimension of the artifact without changing the other dimensions. I did this when I was adjusting the dimensions to fit the  length, width, and height requirements.
+
+- I learned how to check the filament type on the printer by checking the spool.
+
+- I learned how to edit the printables after I've downloaded them and pasted them onto the plater. 
+
 
 
 
