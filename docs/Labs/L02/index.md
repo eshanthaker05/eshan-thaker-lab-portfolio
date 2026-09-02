@@ -7,32 +7,46 @@ FDM - One FDM specific consideration is the anisotropic strength of the material
 
 ## Design Process
 
-Download link: https://www.printables.com/model/487052-super-star-super-mario
+Download link: [https://www.printables.com/model/487052-super-star-super-mario](https://www.printables.com/model/448857-mario-super-star/files?lang=en&theme=light)
 
-I chose to print a Super Star from Super Mario because it was my favorite franchise of video games growing up and this would be the perfect piece of decoration to add to my otherwise bland bedroom. It's also mostly a single color, so if I can find a printer with a spool of yellow filament, I'll be set. 
+I chose to print a Super Star from Super Mario because it was my favorite franchise of video games growing up and this would be the perfect piece of decoration to add to my otherwise bland bedroom. It's also mostly a single color, so if I can find a printer with a spool of yellow filament, I'll be set. (I had to settle for white filament)
 
-<img width="232" height="191" alt="Screenshot 2026-08-30 232125" src="https://github.com/user-attachments/assets/3d492bdc-a7f1-4579-a5eb-0c620f25b004" />
+<img width="573" height="456" alt="Screenshot 2026-09-01 235436" src="https://github.com/user-attachments/assets/396a4d1a-e226-4b87-ac76-cb1d6c39e04b" />
 
-Opened the print and rotated it so that it would lie flat as shown above. I did this so my print wouldn't fall over and be ruined mid-print. 
+This was the artifact I originally wanted to print, but after loading it onto the plater, I realized it had too much of an overhang to be printed without a support. I decided to pick another artifact with a more flat surface to avoid using a support. 
+
+<img width="473" height="223" alt="Screenshot 2026-09-01 225637" src="https://github.com/user-attachments/assets/5d4b98f5-b2af-4ac1-806a-f7e302d38427" />
+
+The artifact I decided to print is show above. The original dimensions, shown on the right, are too big so I had to reduce them. 
+
+<img width="473" height="223" alt="Screenshot 2026-09-01 234251" src="https://github.com/user-attachments/assets/6bc8a75e-2a04-4e1b-9ec8-80a8485eb96c" />
+
+The final dimensions are shown above and are within the 2in x 2in x 0.25in limit. 
+
+<img width="423" height="368" alt="Screenshot 2026-09-01 234844" src="https://github.com/user-attachments/assets/b090526a-bb32-497b-bbdb-69890d273434" />
+<img width="423" height="368" alt="Screenshot 2026-09-01 234857" src="https://github.com/user-attachments/assets/4ebf1973-312b-4b21-842c-0dbc685c0e98" />
+
+Next, I hit "Slice now" and chose the default settings as shown above. 
+
+<img width="915" height="75" alt="Screenshot 2026-09-01 235117" src="https://github.com/user-attachments/assets/b27d0931-9e54-499c-ab19-241d118a3d79" />
+
+Next, I hit "Export G-code" and saved the file onto my computer as shown above.
+
+## Printing Process
+
+I used a PLA printer for this artifact. At first, I tried using printer 17, but it ended up being malfunctional so I resorted to using printer 14. 
+
+<img width="571" height="428" alt="IMG_2932" src="https://github.com/user-attachments/assets/d9ab4712-74f5-4ef5-ac4a-03a169f8ccfe" />
+
+I moved the G-file onto the usb drive and plugged it into printer 14. The image above shows the printer right before I hit print. 
 
 
-<img width="473" height="223" alt="Screenshot 2026-08-30 232159" src="https://github.com/user-attachments/assets/efe1e23a-41f4-43bb-b1ed-a1508d4dc604" />
-
-The dimensions were a little too big so I reduced them by 50% as shown above. These dimensions were still above the 2in x 2in x 0.25in requirement. 
-
-<img width="478" height="228" alt="Screenshot 2026-08-30 232219" src="https://github.com/user-attachments/assets/c719b1d5-4e5c-4440-8404-d1a780028172" />
-
-I reduced the dimensions again, now 25% of its original size, and it fit the requirements, shown by the image above. 
-
-<img width="423" height="368" alt="Screenshot 2026-08-30 232426" src="https://github.com/user-attachments/assets/a0b57263-1839-4653-9f54-eb87999c9837" />
-<img width="423" height="368" alt="Screenshot 2026-08-30 232435" src="https://github.com/user-attachments/assets/31356b71-b996-4e81-8048-e2c1fd5b4ff4" />
 
 
-After resizing the print, I hit "Slice now" and chose the default settings as shown above. 
 
-<img width="915" height="75" alt="Screenshot 2026-08-30 232550" src="https://github.com/user-attachments/assets/b7c07924-1060-4d37-ae89-a515d272486b" />
 
-Next, I hit "Export G-code" and saved the file onto my computer as shown above. 
+
+
 
 
 
