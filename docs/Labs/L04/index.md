@@ -60,6 +60,9 @@ Next, I exported the G-code (shown above), moved the file onto the USB, and plug
 Moving onto the printing process, I loaded up the file on the printer and hit Print. Everything was running smoothly until halfway through, I noticed the nozzle was no longer putting filament onto the artifact and was just moving around, occasionally spraying filament. I stopped the printer and took out the artifact (shown above). The bottom half was printed normally and you can see the fill pattern. I didn't know what went wrong. Luckily, Dr. Raquet walked in a few moments later and I asked him. He said the problem was most likely some moisture build up in the nozzle, jamming the filament. 
 
 
+I moved to another PLA printer and restarted the printing process. Luckily, everything went smoothly this time. 
+
+
 
 
 
