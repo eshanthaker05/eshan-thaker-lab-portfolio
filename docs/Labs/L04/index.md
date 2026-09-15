@@ -55,12 +55,16 @@ Next, I exported the G-code (shown above), moved the file onto the USB, and plug
 
 ## Print Artifact
 
-<img width="605" height="806" alt="IMG_3028" src="https://github.com/user-attachments/assets/4dd6c7f9-6e89-4882-9e92-85b4f76e451a" />
+<img width="303" height="403" alt="IMG_3028" src="https://github.com/user-attachments/assets/4dd6c7f9-6e89-4882-9e92-85b4f76e451a" />
 
 Moving onto the printing process, I loaded up the file on the printer and hit Print. Everything was running smoothly until halfway through, I noticed the nozzle was no longer putting filament onto the artifact and was just moving around, occasionally spraying filament. I stopped the printer and took out the artifact (shown above). The bottom half was printed normally and you can see the fill pattern. I didn't know what went wrong. Luckily, Dr. Raquet walked in a few moments later and I asked him. He said the problem was most likely some moisture build up in the nozzle, jamming the filament. 
 
+<img width="336" height="252" alt="IMG_3026" src="https://github.com/user-attachments/assets/de550a9b-7c4a-4cd9-b3c5-17996b42f0af" />
+<img width="381" height="286" alt="IMG_3029" src="https://github.com/user-attachments/assets/a29e504d-b3dc-497b-8299-cb298926e3ef" />
 
-I moved to another PLA printer and restarted the printing process. Luckily, everything went smoothly this time. 
+I moved to another PLA printer and restarted the printing process. Luckily, everything went smoothly this time. The pictures above show the printer display during the printing process and the nozzle laying down filament. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/voe-jwNCcng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
