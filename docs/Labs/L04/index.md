@@ -47,15 +47,19 @@ Next, I designed the key for the lock (shown above). I gave it a base with a dia
 
 <img width="478" height="247" alt="Screenshot 2026-09-15 111347" src="https://github.com/user-attachments/assets/11179351-1eb5-4812-8ecf-a88debe57f5c" />
 
-Moving onto the preprocessor stage, I downloaded my CAD files and uploaded them onto Prusa Slicer (shown above). The design specifications and slice information can be found in the top left and bottom right corners, respectively. I kept the fill pattern on the default setting of Grid because it doesn't take long to print. Also, I didn't really think the fill pattern would play a big role for this artifact. As for the orientation, I made sure the larger diameter for the key was on the base to avoid having to use supports. I didn't need to scale the artifact because I had already set the units to mm in Creo Parametric. The only thing I had to do was uncheck the Inches box in Prusa Slicer and the units automatically set to mm, matching my CAD files. 
+Moving onto the preprocessor stage, I downloaded my CAD files and uploaded them onto Prusa Slicer (shown above). The design specifications and slice information can be found in the top left and bottom right corners, respectively. I kept the fill pattern on the default setting of Grid because it doesn't take long to print. Also, I didn't really think the fill pattern would play a big role for this artifact. For the filament, I used PLA because, again, it was the default filament and I didn't think it would make a big difference whether I used PLA or PETG. As for the orientation, I made sure the larger diameter for the key was on the base to avoid having to use supports. I didn't need to scale the artifact because I had already set the units to mm in Creo Parametric. The only thing I had to do was uncheck the Inches box in Prusa Slicer and the units automatically set to mm, matching my CAD files. 
 
+<img width="917" height="67" alt="Screenshot 2026-09-15 154439" src="https://github.com/user-attachments/assets/310666e6-1990-431d-8cf2-c185b9648a32" />
 
 Next, I exported the G-code (shown above), moved the file onto the USB, and plugged it into a printer with PLA filament. 
+
 ## Print Artifact
 
+<img width="605" height="806" alt="IMG_3028" src="https://github.com/user-attachments/assets/4dd6c7f9-6e89-4882-9e92-85b4f76e451a" />
+
+Moving onto the printing process, I loaded up the file on the printer and hit Print. Everything was running smoothly until halfway through, I noticed the nozzle was no longer putting filament onto the artifact and was just moving around, occasionally spraying filament. I stopped the printer and took out the artifact (shown above). The bottom half was printed normally and you can see the fill pattern. I didn't know what went wrong. Luckily, Dr. Raquet walked in a few moments later and I asked him. He said the problem was most likely some moisture build up in the nozzle, jamming the filament. 
 
 
-Moving onto the printing process, I uploaded the 
 
 
 
