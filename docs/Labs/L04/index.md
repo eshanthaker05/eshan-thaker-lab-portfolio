@@ -66,12 +66,28 @@ I moved to another PLA printer and restarted the printing process. Luckily, ever
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/voe-jwNCcng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
+The printer I chose used black filament and was working correctly (shown above). 
 
 ## Lessons Learned 
 
+Throughout this project, I made a ton of mistakes, which I didn't realize until far too late. Starting off, I messed up the diameters of the holes on the lock. They were supposed to go all the way down to 4.7mm, but I forgot to account for the 5mm hole counting as one, making it six incremental steps in total, not five. Second, my goal was to use the key as a measuring tool, but I didn't realize that this key was subject to the same tolerances as the holes and that I should be using a caliper to measure instead. Third, all of the text on the artifact, especially the "key" text, was wayyyy too small. The printer's quality at such a small scale is greatly reduced, making it very hard to read the text. They also should have been extruded deeper into the artifact to make them easier to read. If I could change things, I would make the whole artifact much bigger. Lastly, looking back at my work, I realized I was not as thorough as I could have been with my documentation. There are several times where I describe what I'm doing as if its intuitive without providing any images. As for the outcome, the key was able to fit into the first two holes, but wouldn't fit into any holes after that, proving my prediction wrong.
+
+My greatest takeaways from this project are: 
+
+1. Don't be afraid to make the artifact bigger as long as its within the constraints.
+
+2. Document more thoroughly as you go.
+
+3. Be more precise with tolerance calculations in the future.
+
+4. Assume everything will go wrong during the printing process (this is the 2nd time a printer has malfunctioned on me).
+
+In total, this assignment took me about four hours to complete. 
 
 ## Resources
+
+Google Gemini
+
+[Design Rules For 3D Printing](https://instructure.charlotte.edu/courses/272053/files/33203768?wrap=1)
+
 
