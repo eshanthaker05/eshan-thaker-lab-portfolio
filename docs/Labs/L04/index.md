@@ -92,6 +92,6 @@ Google Gemini
 
 [Lock CAD File](https://drive.google.com/file/d/199JwmW0opaw8fZf2ie3VKVm2qFlVOWdc/view?usp=drive_link)
 
-[Key CAD File](https://drive.google.com/file/d/1aDicdPzyb096VI820ECDRrw_ua46wxDS/view?usp=drive_link))
+[Key CAD File](https://drive.google.com/file/d/1aDicdPzyb096VI820ECDRrw_ua46wxDS/view?usp=drive_link)
 
 
