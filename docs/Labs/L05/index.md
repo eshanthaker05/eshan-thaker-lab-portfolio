@@ -45,11 +45,37 @@ Max Deflection (δ) = 1.022 mm
 
 ### Free Body Diagram
 
+<img width="248" height="179" alt="Screenshot 2026-09-22 024450" src="https://github.com/user-attachments/assets/f54e5e07-333f-477e-a2f8-040750e0013d" />
+
+Before drawing the free body diagram, I drew a rough sketch of what this artifact is supposed to look like. 
+
 <img width="250" height="127" alt="Screenshot 2026-09-22 023703" src="https://github.com/user-attachments/assets/0338c77c-4502-4632-8ee2-60b03b11dec2" />
 
+With the sketch in mind, I drew a free body diagram for both parts of this artifact. 
 
-## Decide
+## Parametric Design
 
+<img width="374" height="235" alt="Screenshot 2026-09-22 032009" src="https://github.com/user-attachments/assets/2def1bb7-9478-4272-aa4d-b8a80d222ddf" />
 
-## Communicate
+<img width="349" height="231" alt="Screenshot 2026-09-22 040719" src="https://github.com/user-attachments/assets/3f3eb203-1cff-4581-a085-bf8aecb45b38" />
+
+Before starting the design process, I immediately changed the default to metric units. Next, I inputted all the known variables into the parameters section, which I will later use to constrain certain dimensions.  
+
+<img width="312" height="246" alt="Screenshot 2026-09-22 101648" src="https://github.com/user-attachments/assets/d62665ea-0f67-4709-a0eb-34bb8a61f233" />
+
+Next, I sketched the first part using some of the parameters I set up, like the length and the width of each side. 
+
+<img width="301" height="233" alt="Screenshot 2026-09-22 191554" src="https://github.com/user-attachments/assets/c970700d-0b51-4fbc-9071-48320ac317a5" />
+
+Then, I extruded the part by 5 mm by setting the thickness equal to the thickness variable I previously defined. 
+
+<img width="297" height="85" alt="Screenshot 2026-09-22 102203" src="https://github.com/user-attachments/assets/06e6c74b-9823-4258-9f89-cdff9ce3220f" />
+
+Next, I created the second part into which the first part will snap. I began by extruding a box slightly wider than part 1. 
+
+<img width="284" height="143" alt="Screenshot 2026-09-22 102749" src="https://github.com/user-attachments/assets/c5a5487c-bef2-42b3-ba29-81dbb0e05756" />
+
+Next, I extruded a small portion into the box. To find the dimensions, I took the thickness and length of the prongs from part 1 and 0.2 mm. I chose this number because I learned from the last lab that this is the tolerance of dimensions on the Prusa Slicer Core One printer. 
+
+## 3D Printing and Test
 
