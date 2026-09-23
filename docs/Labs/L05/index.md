@@ -79,3 +79,17 @@ Next, I extruded a small portion into the box. To find the dimensions, I took th
 
 ## 3D Printing and Test
 
+<img width="478" height="246" alt="Screenshot 2026-09-22 123701" src="https://github.com/user-attachments/assets/eda0dd4e-d83a-42ce-b6af-cda4f0500965" />
+
+After finishing the modeling process, I moved part 1 and part 2 onto Prusa Slicer as shown above. The feature type information and sliced info can be found in the top left and bottom right, respectively. I used the default, grid, infill pattern for its speed during the printing process. 
+
+<img width="878" height="57" alt="Screenshot 2026-09-22 121706" src="https://github.com/user-attachments/assets/29bf40cc-4890-4552-919c-f02530f284f1" />
+
+I saved the files as a G-code and uploaded it onto the USB drive, as shown above. 
+
+<img width="571" height="428" alt="IMG_3044" src="https://github.com/user-attachments/assets/ddeeaea6-5573-4d3a-a6df-556b24988a8d" />
+
+It took about 12 minutes in total to print. I forgot to take a picture of the screen on the printer, but I've included a video of the printer in action below. 
+
+
+
