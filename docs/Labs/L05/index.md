@@ -85,10 +85,25 @@ After finishing the modeling process, I moved part 1 and part 2 onto Prusa Slice
 
 I saved the files as a G-code and uploaded it onto the USB drive, as shown above. 
 
-<img width="571" height="428" alt="IMG_3044" src="https://github.com/user-attachments/assets/ddeeaea6-5573-4d3a-a6df-556b24988a8d" />
-
-It took about 12 minutes in total to print. I forgot to take a picture of the screen on the printer, but I've included a video of the printer in action below. 
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/2ifBkFhLHsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+It took about 12 minutes in total to print. I forgot to take a picture of the screen on the printer, but I've included a video of the printer in action above. 
+
+<img width="214" height="286" alt="IMG_3054 (1)" src="https://github.com/user-attachments/assets/11d7e40e-2906-45db-b7b6-7a3181d6c628" />
+
+Shown above are the two parts side by side. After printing the two parts out, I tested out the snapping mechanism and it worked to an extent. The two parts are able to snap together, but it is very weak and can easily come undone.  
+
+## Lessons Learned 
+
+I learned a lot from this project, especially about tolerances. The two parts are technically able to snap together, but their dimensions are a few milimeters off. If the prongs on the first part were about a milimeter or so longer, the two parts would fit together much better. The experience I gained in this lab about snap-fits is especially helpful for next week's lab, where I'll essentially be creating a snap-fit artifact for an object given in class. 
+
+Overall, this project took me 4-5 hours. 
+
+[CAD File #1](https://drive.google.com/file/d/1g1A5jrlBAW6lur7f7OmNMESdAaGScVNp/view?usp=drive_link)
+
+[CAD File #2](https://drive.google.com/file/d/17dbOqGXsi0-Y-nalCvi9171RoW4k33nB/view?usp=drive_link)
+
+[PLA Mechanical Properties](https://www.sciencedirect.com/science/article/pii/S2405844024140972)
+
