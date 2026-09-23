@@ -79,7 +79,7 @@ Next, I extruded a small portion into the box. To find the dimensions, I took th
 
 <img width="478" height="246" alt="Screenshot 2026-09-22 123701" src="https://github.com/user-attachments/assets/eda0dd4e-d83a-42ce-b6af-cda4f0500965" />
 
-After finishing the modeling process, I moved part 1 and part 2 onto Prusa Slicer as shown above. The feature type information and sliced info can be found in the top left and bottom right, respectively. I used the default, grid, infill pattern for its speed during the printing process. 
+After finishing the modeling process, I moved part 1 and part 2 onto Prusa Slicer as shown above. The feature type information and sliced info can be found in the top left and bottom right, respectively. I used the default, grid, infill pattern for its speed during the printing process. I also orientated both parts as shown because they don't need supports when printed this way. The downside to this, however, is that its strength is decreased since the load on part one will be applied horizontally, and since the printer prints the artifact from ground up, the horizontal layers are weaker than the vertical ones. 
 
 <img width="878" height="57" alt="Screenshot 2026-09-22 121706" src="https://github.com/user-attachments/assets/29bf40cc-4890-4552-919c-f02530f284f1" />
 
