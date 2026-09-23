@@ -89,6 +89,6 @@ I saved the files as a G-code and uploaded it onto the USB drive, as shown above
 
 It took about 12 minutes in total to print. I forgot to take a picture of the screen on the printer, but I've included a video of the printer in action below. 
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/2ifBkFhLHsg)" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/2ifBkFhLHsg)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 https://youtu.be/2ifBkFhLHsg
