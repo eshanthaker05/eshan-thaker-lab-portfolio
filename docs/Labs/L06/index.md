@@ -4,9 +4,15 @@
 
 The objective of this lab is to parametrically design an artifact that snap-fits onto a known object. My object is an Arduino Leonardo R3 microcontroller board. 
 
-## Analyze
+## Parametrically Design
 
 In class, I used a caliper to take the basic dimensions of my Arduino board. Documentation of my use of the caliper is shown below. 
+
+<img width="381" height="285" alt="IMG_3045" src="https://github.com/user-attachments/assets/4f20fdd4-81af-4544-a580-552fc2d44bb8" />
+
+<img width="381" height="285" alt="IMG_3047" src="https://github.com/user-attachments/assets/3c25f886-ee33-4621-8dd6-ab98f234078c" />
+
+<img width="381" height="285" alt="IMG_3045" src="https://github.com/user-attachments/assets/9e45fddc-fd9b-46c9-9954-9da498a16549" />
 
 Width: 2.102 inches
 
@@ -14,10 +20,32 @@ Length: 2.701 inches
 
 Height: 0.070 inches
 
-I needed to design an artifact that is mindful of the various input/output pins around the edges of the board so I decided to 
+Pin Distance from Edge = 0.053 inches
 
-## Decide
+I decided on a simple design that would latch onto the sides of the Arduino board and hold it securely. Unfortunately, I made a very annoying mistake here which I realized too late: I forgot to use the caliper to measure how far the pins are from the edge of the board. To replace the caliper, I ended up using my Bic 0.9mm mechanical pencil lead. I chose to take measurments using this because it was the object with the smallest known dimension that I had on me at the time. 
+
+First, I measured the height of the Arduino since I already knew that dimension from using the caliper earlier, and compared it to the value I got with the pencil lead. I measured it to be approximately 2 pencil leads, which is 1.8 mm. Converting this to inches, I got 0.071 inches, which is surprisingly close to the value measured from the caliper. Next, I measured the pins distance from the edge using the pencil leads. It looked to be around 1.5 pencil leads, which converts to 0.053 inches. 
+
+## Documentation
+
+<img width="367" height="234" alt="Screenshot 2026-09-28 180212" src="https://github.com/user-attachments/assets/1edadb77-d796-46be-853d-8379b2cb2172" />
+
+I started by inputting the main dimensions of the Arduino board into the parameters tab.
+
+<img width="411" height="188" alt="Screenshot 2026-09-28 183015" src="https://github.com/user-attachments/assets/2a23f61b-4886-46f0-afb5-1272b196ee3c" />
+
+Next, I added the extra length to give the artifact some strength. I arbitrarily chose 0.5 inches to add onto each dimension. 
+
+<img width="356" height="248" alt="Screenshot 2026-09-28 182718" src="https://github.com/user-attachments/assets/51f84207-fdc0-4178-ad52-525161ef87a3" />
+
+The extruded box is shown above. 
 
 
-## Communicate
+
+## Show and Tell
+
+
+## Lessons Learned
+
+A lesson I learned pretty quickly is that I should have taken more measurements with the caliper when I had it. This was partly because I didn't realize I would need more specific measurements, and partly because I didn't have a design in mind when I was taking the measurements in class. Either way, I should have measured things like how far the pin connections are from the edge, diameters of all the holes, locations of the holes with respect to the edges, etc. 
 
