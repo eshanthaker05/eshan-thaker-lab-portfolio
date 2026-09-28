@@ -28,15 +28,15 @@ First, I measured the height of the Arduino since I already knew that dimension 
 
 ## Documentation
 
-<img width="367" height="234" alt="Screenshot 2026-09-28 180212" src="https://github.com/user-attachments/assets/1edadb77-d796-46be-853d-8379b2cb2172" />
+<img width="366" height="234" alt="Screenshot 2026-09-28 184017" src="https://github.com/user-attachments/assets/4c895ba0-bdf2-4c1e-9c80-654950c86170" />
 
 I started by inputting the main dimensions of the Arduino board into the parameters tab.
 
-<img width="411" height="188" alt="Screenshot 2026-09-28 183015" src="https://github.com/user-attachments/assets/2a23f61b-4886-46f0-afb5-1272b196ee3c" />
+<img width="410" height="286" alt="Screenshot 2026-09-28 184035" src="https://github.com/user-attachments/assets/3f44fef1-7edd-4eae-8a9d-12dc82df3fce" />
 
 Next, I added the extra length to give the artifact some strength. I arbitrarily chose 0.5 inches to add onto each dimension. 
 
-<img width="356" height="248" alt="Screenshot 2026-09-28 182718" src="https://github.com/user-attachments/assets/51f84207-fdc0-4178-ad52-525161ef87a3" />
+<img width="428" height="293" alt="Screenshot 2026-09-28 184317" src="https://github.com/user-attachments/assets/eb466b01-e835-40f1-8e80-797cd8e07879" />
 
 The extruded box is shown above. 
 
