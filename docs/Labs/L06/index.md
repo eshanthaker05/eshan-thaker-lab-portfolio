@@ -52,9 +52,9 @@ I then extruded it downwards into the box. The depth of the extrusion is a littl
 
 I need to account for the connector pins that hang a little bit off the side. Since I don't have a caliper, I have to eyeball/estimate everything using the 0.9mm pencil lead. I measured the connector to be around 3 pencil leads from the side, which converts to approximately 0.12 inches. 
 
+<img width="389" height="245" alt="Screenshot 2026-09-28 201824" src="https://github.com/user-attachments/assets/e75f842a-0ab6-40c7-b907-96b722109998" />
 
-
-
+Lastly, I extruded a bar with a height of 2 pencil leads (about 0.07 inches) to keep the Arduino board in place. 
 
 ## Show and Tell
 
