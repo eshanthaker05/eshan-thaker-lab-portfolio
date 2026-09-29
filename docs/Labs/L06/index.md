@@ -52,6 +52,10 @@ I then extruded it downwards into the box. The depth of the extrusion is a littl
 
 I need to account for the connector pins that hang a little bit off the side. Since I don't have a caliper, I have to eyeball/estimate everything using the 0.9mm pencil lead. I measured the connector to be around 3 pencil leads from the side, which converts to approximately 0.12 inches. 
 
+
+
+
+
 ## Show and Tell
 
 
