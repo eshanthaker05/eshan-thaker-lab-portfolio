@@ -74,7 +74,7 @@ I saved my part as an STL file and loaded it up Prusa Slicer. Before printing, I
 
 <img width="479" height="229" alt="Screenshot 2026-09-28 204129" src="https://github.com/user-attachments/assets/2958edf3-214f-4997-8516-862b74ad88d5" />
 
-I noticed that the height of the artifact was a lot bigger proportionally than I had expected, so I cut it in half using in Prusa Slicer (shown above), bringing my print time down to about 40 minutes. Although this is still a longer time than I had hoped, it was an acceptable print time for me. 
+I noticed that the height of the artifact was a lot bigger proportionally than I had expected, so I cut it in half using in Prusa Slicer (shown above), bringing my print time down to about 40 minutes. Although this is still a longer time than I had hoped, it was an acceptable print time for me. Additionally, I changed the infill pattern to rectilinear since it is simple, slightly reducing the print time. 
 
 <img width="927" height="197" alt="Screenshot 2026-09-28 204144" src="https://github.com/user-attachments/assets/adb352f7-ef7a-423b-a9d2-6780dc7ef594" />
 
@@ -88,9 +88,7 @@ I saved the file as a G-code and sent it to printer #3.
 
 <img width="402" height="301" alt="Screenshot 2026-10-01 145713" src="https://github.com/user-attachments/assets/459241d2-ee3c-48ae-a4a2-09b76e9133e5" />
 
-
-## Show and Tell
-
+Shown above are screen of the printer halfway through the printing process, a short clip demonstrating the printer at work, and the finished product lying on the printing tray. 
 
 ## Lessons Learned
 
