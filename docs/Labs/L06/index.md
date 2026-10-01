@@ -56,6 +56,39 @@ I need to account for the connector pins that hang a little bit off the side. Si
 
 Lastly, I extruded a bar with a height of 2 pencil leads (about 0.07 inches) to keep the Arduino board in place. 
 
+<img width="389" height="245" alt="Screenshot 2026-09-28 201824" src="https://github.com/user-attachments/assets/b7264ef4-00df-40d6-8032-a80fd9ce2fe9" />
+
+Lastly, I made a little space for the Arduino board to securely "snap" into. After finishing up the modeling process, I went to the Rapid Lab. 
+
+## Preprocessor 
+
+<img width="405" height="303" alt="Screenshot 2026-10-01 144908" src="https://github.com/user-attachments/assets/949316eb-fe58-4dad-847c-a6410aad745e" />
+
+<img width="405" height="304" alt="Screenshot 2026-10-01 144914" src="https://github.com/user-attachments/assets/1e9223dd-a0ca-4c8e-850b-8dac3779e700" />
+
+Once I got to the lab, I was able to find a caliper and adjust my dimensions so that they were more accurate. Looking back, the dimensions I took with my pencil leads were not too far off from the ones I measured using the caliper. I wanted to make sure that the Arduino would definitely snap into place, so I measured the lengths of the pins from the edge.
+
+<img width="1201" height="792" alt="Screenshot 2026-09-28 203311" src="https://github.com/user-attachments/assets/c6393daf-a52b-42ff-b418-c4ceb82ae9aa" />
+
+I saved my part as an STL file and loaded it up Prusa Slicer. Before printing, I checked how long it would take the printer to finish my part since I already knew this was a pretty big artifact. It would take the printer about an hour and a half to fully finish printing my artifact, so I tried finding ways to trim down on this print time. 
+
+<img width="479" height="229" alt="Screenshot 2026-09-28 204129" src="https://github.com/user-attachments/assets/2958edf3-214f-4997-8516-862b74ad88d5" />
+
+I noticed that the height of the artifact was a lot bigger proportionally than I had expected, so I cut it in half using in Prusa Slicer (shown above), bringing my print time down to about 40 minutes. Although this is still a longer time than I had hoped, it was an acceptable print time for me. 
+
+<img width="927" height="197" alt="Screenshot 2026-09-28 204144" src="https://github.com/user-attachments/assets/adb352f7-ef7a-423b-a9d2-6780dc7ef594" />
+
+I saved the file as a G-code and sent it to printer #3. 
+
+## Printing Process
+
+<img width="404" height="281" alt="Screenshot 2026-10-01 145706" src="https://github.com/user-attachments/assets/bf683a68-f6b9-4481-9979-0013aca83773" />
+
+[](url)
+
+<img width="402" height="301" alt="Screenshot 2026-10-01 145713" src="https://github.com/user-attachments/assets/459241d2-ee3c-48ae-a4a2-09b76e9133e5" />
+
+
 ## Show and Tell
 
 
