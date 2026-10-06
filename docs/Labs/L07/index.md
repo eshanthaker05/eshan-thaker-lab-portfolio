@@ -56,6 +56,10 @@ Lastly, I created the two supports on either side of my artifact. I sketched an 
 
 I then extruded my I-beam by 10 mm. 
 
+<img width="251" height="347" alt="Screenshot 2026-10-05 201340" src="https://github.com/user-attachments/assets/f3974105-81c5-4d29-9176-14978a7bddac" />
+
+FInally, I added two holes on the side of my I-beam. I kept made their diameters equal to the diameters of the holes on the links I designed for consistency. 
+
 ## Preprocessor
 
 ## Printing Process
