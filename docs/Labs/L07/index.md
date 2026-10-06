@@ -58,9 +58,14 @@ I then extruded my I-beam by 10 mm.
 
 <img width="251" height="347" alt="Screenshot 2026-10-05 201340" src="https://github.com/user-attachments/assets/f3974105-81c5-4d29-9176-14978a7bddac" />
 
-FInally, I added two holes on the side of my I-beam. I kept made their diameters equal to the diameters of the holes on the links I designed for consistency. 
+Finally, I added two holes on the side of my I-beam. I kept made their diameters equal to the diameters of the holes on the links I designed for consistency. 
+
+<img width="302" height="203" alt="Screenshot 2026-10-05 203805" src="https://github.com/user-attachments/assets/83540b21-5301-438b-8388-ce558ff18358" />
+
+I realized that the lengths of the pins were unneccessarily long, so I reduced them to 30 mm and rounded the sides to make it easier to fit them into the links. 
 
 ## Preprocessor
+
 
 ## Printing Process
 
