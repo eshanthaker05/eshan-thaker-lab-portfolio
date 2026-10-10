@@ -94,6 +94,8 @@ During the printing process, I realized that the I shape of my supports blocks m
 
 The images above shows the printing screen during the printing process of the pins and linkages. The other image shows the actual printer at work. 
 
+<iframe width="560" height="315" src="https://youtu.be/3EaoiHEB8Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Purpose 
 
