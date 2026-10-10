@@ -103,9 +103,20 @@ The images above shows the printing screen during the printing process of the pi
   allowfullscreen>
 </iframe>
 
-### Purpose 
+The image below is the final printed artifact.
 
+<img width="428" height="5712" alt="IMG_314" src="https://github.com/user-attachments/assets/af0625f5-8069-4366-9957-82d9a23920ff" />
 
+**Purpose**: The original purpose of this artifact was to mimic a sliding sign I saw in the library. After printing it, I realized it acted more like a toy, so now that's its purpose as it sits on my desk. 
+
+**Components**: All components were printed for this assignment. The three individual parts needed for this artifiact are: pins (8), linkages (8), and supports (2). 
+
+**Tolerances**: For the hole diameters, I chose to make them 0.25 mm smaller than the pin diameter so that they would snap together, as stated on Canvas. 
+
+**Design Decisions**: When deciding the overall size of the artifact, I purposely chose to make it small so that the print time wouldn't be to high. Once again, I realize I could've made it smaller. I guess I underestimate the size of milimeters. Another decision I made was to change the shape of the supports. This was because in the originial design, they blocked the linkages from fully extending, make it impossible for them to connect. Lastly, I decided to only connect the links at the ends, ignoring the hole at its center. This was because I misjudged their proportions when designing and didn't realize that the links would be too close to each other for the linkages to move. 
 
 ## Lessons Learned
 
+**Time Spent**: 30 minutes researching, 2 hours CAD modeling, 20 minutes for slicing, 2 hours for printing, 30 minutes for post-processing and assembly. Total time was approximately 4.5 hours. This was less time than I had expected, but that might be because the previous labs have always taken me a lot longer. 
+
+**Biggest Mistake**: Underestimating the scale of milimeters caused me to pivot and rebrand my artifact into a toy. 
