@@ -66,8 +66,29 @@ I realized that the lengths of the pins were unneccessarily long, so I reduced t
 
 ## Preprocessor
 
+<img width="471" height="30" alt="Screenshot 2026-10-05 222645" src="https://github.com/user-attachments/assets/e7328951-1901-4b1b-a690-bdc656ceb3ad" />
+
+<img width="515" height="26" alt="Screenshot 2026-10-05 222826" src="https://github.com/user-attachments/assets/d94621a3-4f8c-4e81-a216-13fd79bdfa23" />
+
+Before loading my CAD models onto Prusa Slicer, I changed the elephant's foot compensation from 0.2 mm to 0.1 mm. When I was researching, I found that PLA does not expand as much as other filaments when heated during the printing process, so I felt confident reducing the compensation by 0.1 mm. For the seam position, I changed it to Random because it will scatter the weak points of my prints randomly rather than having them concentrated in a single location. This will boost the overall strength of each part.  
+
+<img width="639" height="329" alt="Screenshot 2026-10-05 221514" src="https://github.com/user-attachments/assets/209f5238-b4a0-4287-8521-d057589ff396" />
+
+<img width="896" height="71" alt="Screenshot 2026-10-05 221522" src="https://github.com/user-attachments/assets/f03ab7e9-6442-444d-8feb-ebf2db46425d" />
+
+Next, I counted out the correct number of each part I'll need and put them onto Prusa Slicer. I decided to use two printers to print my linkage mechanism to reduce the amount of time I spend on the printing process. Luckily, the Rapid Lab was empty when I went to print. I loaded the pins and links together in a single print, and exported the G-code. 
+
+<img width="639" height="329" alt="Screenshot 2026-10-05 221630" src="https://github.com/user-attachments/assets/70613ca1-e951-47dc-b20b-1a0e8183d7c8" />
+
+<img width="927" height="86" alt="Screenshot 2026-10-05 221640" src="https://github.com/user-attachments/assets/ee3a1810-1af2-4587-b545-14c0ac831a39" />
+
+I then moved the two supports onto Prusa Slicer and exported the G-code. 
 
 ## Printing Process
+
+### Purpose 
+
+
 
 ## Lessons Learned
 
