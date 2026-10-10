@@ -46,7 +46,7 @@ Then, I extruded the link by 5 mm.
 
 <img width="493" height="181" alt="Screenshot 2026-10-05 192157" src="https://github.com/user-attachments/assets/786bb9bf-900e-433f-9e49-85bb84df4000" />
 
-FInally, I added three equally spaced holes for the pins to fit into. According to the linkages module for this week's lab, to have a pin comfortablly fit into a hole, the hole should have a clearance of 0.2 mm to 0.3 mm per side. Applying this to the holes, I can chose between a range of 5.4 mm and 5.6 mm for the diameter. I decided to go with a diameter of 5.5 mm to safely stay within that range.  
+Finally, I added three equally spaced holes for the pins to fit into. According to the linkages module for this week's lab, to have a pin comfortablly fit into a hole, the hole should have a clearance of 0.2 mm to 0.3 mm per side. Applying this to the holes, I can chose between a range of 5.4 mm and 5.6 mm for the diameter. I decided to go with a diameter of 5.5 mm to safely stay within that range.  
 
 <img width="290" height="285" alt="Screenshot 2026-10-05 193806" src="https://github.com/user-attachments/assets/bc0ae9ff-22df-40b5-9cda-c348479e07c5" />
 
@@ -94,8 +94,14 @@ During the printing process, I realized that the I shape of my supports blocks m
 
 The images above shows the printing screen during the printing process of the pins and linkages. The other image shows the actual printer at work. 
 
-<iframe width="560" height="315" src="https://youtu.be/3EaoiHEB8Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/3EaoiHEB8Qw"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
 ### Purpose 
 
