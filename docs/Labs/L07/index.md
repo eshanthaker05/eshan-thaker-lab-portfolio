@@ -86,6 +86,15 @@ I then moved the two supports onto Prusa Slicer and exported the G-code.
 
 ## Printing Process
 
+During the printing process, I realized that the I shape of my supports blocks my links from fully extending, so I shaved off the edges in Prusa Slicer and printed. I used printer #3 for this assingment. 
+
+<img width="403" height="302" alt="IMG_3134" src="https://github.com/user-attachments/assets/77157c27-e2bc-4623-8f9d-d9f04f67d383" />
+
+<img width="405" height="304" alt="IMG_3130" src="https://github.com/user-attachments/assets/bb87e5d1-eda8-4013-a46e-727e7a10ac2a" />
+
+The images above shows the printing screen during the printing process of the pins and linkages. The other image shows the actual printer at work. 
+
+
 ### Purpose 
 
 
