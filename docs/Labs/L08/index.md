@@ -6,8 +6,10 @@ When presented with a new idea, people often shy away from asking questions beca
 
 ## Problem Statement
 
+When eating lunch in my apartment, I occasionally like to play a show on my phone for entertainment. I use whatever is nearby to prop up my phone at an angle so that the screen is visible to me with minimal glare from the window behind me. The problem is that sometimes, the phone doesn't stay propped due to the smooth surface of the countertops. Having to constantly readjust my phone while eating food can be extremely annoying, so I decided to solve this problem in this assingment. 
 
 ## Design
+
 
 
 ## 3D Print 
