@@ -1,13 +1,16 @@
-# A8 – Gears
+# A8 – Design and Print Something Useful 
 
-## Objective
-
-
-## Analyze
+## Reading and Writing
 
 
-## Decide
+## Problem Statement
 
 
-## Communicate
+## Design
+
+
+## 3D Print 
+
+
+## Lessons Learned 
 
