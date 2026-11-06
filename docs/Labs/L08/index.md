@@ -138,6 +138,8 @@ I loaded all the parts, along with the shafts, onto prusa slicer as seen above. 
 
 The main lesson I learned was not to cut corners. I removed half of the volume of the base to reduce print time, but it ended up destabilizing the artifact, making it harder for a phone to be propped up. Another mistake I made was with the shaft diameters. Even though I printed two shafts with equal diameter, one of them snapped into place while the other easily falls out. I didn't take the tolerances into account when designing and printing them, resulting in a loose hold on the phone.  
 
+**Time Spent:** 9 hours
+
 [Base CAD File](https://drive.google.com/file/d/1ykt4E64wqx87XaPlv39k5O4JJwgZTsJL/view?usp=drive_link)
 
 [Holder CAD File](https://drive.google.com/file/d/1tXhRBNnVTUUtPu-1o3j0XDW-Zy3C4Fiu/view?usp=drive_link)
