@@ -112,6 +112,28 @@ Finally, I shaved off some volume from the end to reduce print time and make it 
 
 I loaded all the parts, along with the shafts, onto prusa slicer as seen above. I used printers 9 and 15 to further reduce the print time. I did not use a raft for this print because I haven't had trouble in the past when printing so figured it would be alright. The wall thickness was default and the infil was 15%. I didn't use supports because I didn't have any overhangs in my artifacts so using them would be unnecessary. The layer thickness and volume remain at the default settings. The surface of my print is mostly smooth, but some of the edges had strands of filmaent that needed to be picked off. Also, you can feel the tiny ridges in the surface where the nozzle went back and forth when printing. The reason I chose this orientation to print is to avoid using supports. 
 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/dvUnzYL5y6M"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/m7QZ8odh1HA"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+
 ## Lessons Learned 
 
 ### References 
