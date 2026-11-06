@@ -84,9 +84,33 @@ Next, I added a small hole in the side to attach the base to the holder using a 
 
 After finishing my design, I still wanted to reduce print time, so I decided to cut the most of the top and right parts of the base, since the holder is only attaching to the left portion anyways. I realize later that this ends up being a mistake. 
 
+### Arm
+
+<img width="243" height="295" alt="Screenshot 2026-10-20 012419" src="https://github.com/user-attachments/assets/94ddee16-661f-4d5d-a949-7f220d6aea04" />
+
+Lastly, I designed the arm. I began by making the drawing. 
+
+<img width="295" height="213" alt="Screenshot 2026-10-20 012453" src="https://github.com/user-attachments/assets/a695564c-4223-4797-9431-9c4688691c3e" />
+
+I then extruded the drawing as shown above. 
+
+<img width="256" height="274" alt="Screenshot 2026-10-20 012633" src="https://github.com/user-attachments/assets/dea8a9d8-94fb-4b82-afde-58944350def3" />
+
+Next, I added a hole into the arm to attach it to the base and holder.
+
+<img width="309" height="219" alt="Screenshot 2026-10-20 012931" src="https://github.com/user-attachments/assets/5a85382e-8fb9-46bd-82b9-6719ec96ce46" />
+
+Finally, I shaved off some volume from the end to reduce print time and make it slide into place easily. 
 
 ## 3D Print 
 
+<img width="383" height="204" alt="Screenshot 2026-10-19 225548" src="https://github.com/user-attachments/assets/3b83256c-86c8-46a5-a58c-8f03af2a80d4" />
+
+<img width="383" height="204" alt="Screenshot 2026-10-20 010000" src="https://github.com/user-attachments/assets/e29d1339-d1d4-4b69-ad4f-67c66ce4d3d1" />
+
+<img width="383" height="204" alt="Screenshot 2026-10-20 020814" src="https://github.com/user-attachments/assets/19e63483-72ef-4dcc-b8fa-7055d7af3c25" />
+
+I loaded all the parts, along with the shafts, onto prusa slicer as seen above. I used printers 9 and 15 to further reduce the print time. I did not use a raft for this print because I haven't had trouble in the past when printing so figured it would be alright. 
 
 ## Lessons Learned 
 
