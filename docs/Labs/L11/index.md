@@ -34,6 +34,33 @@ I then extruded into the block by 80 mm, leaving a floor thickness of 2 mm on th
 
 <img width="407" height="442" alt="Screenshot 2026-11-08 203703" src="https://github.com/user-attachments/assets/7323a76d-96fb-4003-a3b0-1036f36303c0" />
 
+Next, I needed to design the spaces on the sides for the undercut on the male part to snap into. I began by sketching a 5 mm by 5mm square near the top of the part. I then added a clearance of 0.2 mm to account for the printing shrinkage. 
+
+<img width="398" height="194" alt="Screenshot 2026-11-09 143938" src="https://github.com/user-attachments/assets/f82bed85-b4c0-49b0-8430-8ab2a81a43e9" />
+
+I then set the extrusion so that it would delete mateial and ran it through both sides of the part. 
+
+<img width="308" height="182" alt="Screenshot 2026-11-09 144011" src="https://github.com/user-attachments/assets/c930ede1-ada9-445a-a4dd-0e495493dddc" />
+
+
+### Male Part
+
+I began designing the male part by drawing a base identical to the one I made for the female part. I also added the fillets on each of the four corners. 
+
+<img width="264" height="195" alt="Screenshot 2026-11-09 144919" src="https://github.com/user-attachments/assets/a5e3575d-bb30-4ca8-95d2-02fd7094ff11" />
+
+I then extruded the sketch by 2 mm. 
+
+<img width="322" height="233" alt="Screenshot 2026-11-09 145120" src="https://github.com/user-attachments/assets/535d3fdc-fc6f-4ea1-aea9-4e94a1435c66" />
+
+Next, I needed to design the two cantilver beams that would actually snap into the case. I sketched the two bases for the cantilever beams 2.5 cm away from the edge of the base. 
+
+<img width="279" height="213" alt="Screenshot 2026-11-09 152952" src="https://github.com/user-attachments/assets/064fa897-f3f6-4c18-9dcb-af47ee28b1f3" />
+
+I extruded the two sketches by 6.9 mm, taking into account how far the holes in the female part are from the top and 0.2 mm clearance. 
+
+<img width="617" height="360" alt="Screenshot 2026-11-09 153747" src="https://github.com/user-attachments/assets/83eb7c3b-194d-4271-ab8a-a59ff06a7f79" />
+
 
 
 ## Preprocessing
