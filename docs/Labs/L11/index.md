@@ -59,11 +59,30 @@ Next, I needed to design the two cantilver beams that would actually snap into t
 
 I extruded the two sketches by 6.9 mm, taking into account how far the holes in the female part are from the top and 0.2 mm clearance. 
 
-<img width="617" height="360" alt="Screenshot 2026-11-09 153747" src="https://github.com/user-attachments/assets/83eb7c3b-194d-4271-ab8a-a59ff06a7f79" />
+<img width="309" height="180" alt="Screenshot 2026-11-09 153747" src="https://github.com/user-attachments/assets/83eb7c3b-194d-4271-ab8a-a59ff06a7f79" />
 
+Next, I added slant to both cantilever beams so that its base width is double the width at its end. 
 
+<img width="230" height="173" alt="Screenshot 2026-11-09 154903" src="https://github.com/user-attachments/assets/8314935d-f367-4ee8-af95-ffea8d556b34" />
+
+On the opposing side of the arms, I added an extrusion with a slant on its end to help it slide into place when joining it with the female part. I set the extrusion length to 2.7 mm, keeping in mind how far the arm is from the edge. 
+
+<img width="290" height="186" alt="Screenshot 2026-11-09 163317" src="https://github.com/user-attachments/assets/97d6cdff-35a6-4c5b-9c18-43bae214d589" />
+
+I then repeated this step for the other arm. 
+
+## Assembly
+
+I loaded the male and female parts onto a single assembly file. Below is the exploded view of the two parts. 
+
+<img width="250" height="233" alt="Screenshot 2026-11-09 164749" src="https://github.com/user-attachments/assets/88f6c42d-ca41-42aa-9e1a-884a726af2f7" />
+
+I then constrained the two parts together as seen below. 
+
+<img width="279" height="251" alt="Screenshot 2026-11-09 165406" src="https://github.com/user-attachments/assets/fe0447d8-63aa-40e2-b475-e8374223b5b4" />
 
 ## Preprocessing
+
 
 
 ## Postprocessing
