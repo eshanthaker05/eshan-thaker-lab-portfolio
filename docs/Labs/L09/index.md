@@ -70,6 +70,8 @@ After deciding on the clearance, we spent some time brainstorming an artifact to
 
 ## Design
 
+### Outer Rings
+
 My task in the design process was to design the rings that would attach onto the frame. We wanted five rings in total with two small rings, two medium rings, and one large ring. The rings would have to be designed in halves since the frame was going to cut through them. Unlike the other rings, the small ring at the bottom of the rocket was going to be attached from the inside of the frame to account for the shape of the frame and to maintain the overall aesthetics of the rocket. I began by inputting the clearance, kerf, and thickness into the parameters section. Using these values, I created equations to automatically set the inner and outer radius of each ring.  
 
 <img width="343" height="183" alt="Screenshot 2026-10-26 214013" src="https://github.com/user-attachments/assets/7a46d7b5-02aa-43af-8da8-9290c01a5951" />
@@ -83,6 +85,50 @@ Next, I designed the medium ring. Using the equations I set earlier, I just chan
 <img width="276" height="153" alt="Screenshot 2026-10-26 224913" src="https://github.com/user-attachments/assets/156a1055-cb10-4b38-ab65-02689632afb6" />
 
 I repeated this step until I had a semi-circle for the large ring as well. 
+
+### Frame 
+
+The documentation below is by Andy since he designed the frame. 
+
+For the first step, I wanted to make the shape of the body for a rocket. Originally I wanted to use a spline tool to do this, but I heard from another group that Inkspace reacts weirdly to the spline tool. To get around this, I just created an elipse that was 4.5in in length and 1in in width. I then offset the elipse I created 0.25in to create the body without the connections. Using an elipse like this will make our rocket ship look more round, but we thought that was fine.
+
+<img width="271" height="644" alt="elipse" src="https://github.com/user-attachments/assets/1d5f94f2-0316-441a-87b2-8dd42f32684d" />
+
+The next step I took was creating the first connection point. We are going to have five connection points up the side of the body to connect the donuts to. I decided to start with the middle one first. To do this, I created a centerline through the middle of my elipse and then offset that line by our clearance: 0.098in. Next, we decided how long we wanted our connection point to be. We decided on 0.15in, so I made sure the connection point was 0.15in in from the outside of the body. I then trimmed the body to make it all of the geometry work together
+
+<img width="464" height="170" alt="connection_center" src="https://github.com/user-attachments/assets/ae32f877-7b69-4785-8a3b-7a12303fd6f4" />
+
+Now that the center connection point is done, I had to find the location for the other four location points. To do this, I took the height of the inner elipse (4in) and then divided it by five for the five connections we have. This gave me 0.8in which will be the gap between each of our connection points. Using this value, I created the two connection points of the center one. The top connection point is on the inside of the body because I am going to mirror it, and I didn't want the connection point to mess with the fins.
+
+<img width="237" height="341" alt="connection_top3" src="https://github.com/user-attachments/assets/b45f7d63-735e-4cb1-a804-02600cc04d55" />
+
+Now that I have all of my connection points, I can mirror my connection points over the centerline I created earlier for the center connection. This will give me all five of my connection points on one side of the body.
+
+<img width="236" height="661" alt="connection_right5" src="https://github.com/user-attachments/assets/05b78b48-58d5-4759-9659-cb79e2157f72" />
+
+Once I had all of the connection points, it was time to move onto the fins. To do this, I used the line tool and made my first click between the bottom connection and the one above it. There is no real measurement with it, I just clicked between them. I then created a triangle shape that connected to the bottom of the rocket. We wanted the rocket to be about 5.5in tall, so I made the bottom of the triangle 1in from the bottom of the body. To make it look more like a fin, I rounded the sharp edge by 0.1.
+
+<img width="461" height="485" alt="rocket_fin" src="https://github.com/user-attachments/assets/25f1b630-b4b9-4321-a858-4cbd8337571b" />
+
+Now that I had one side completed, I made a centerline going from the top of the ellipse all the way to the bottom. I then mirrored the entire shape over that centerline to complete the main shape of the silhouette.
+
+<img width="355" height="464" alt="rocket_mirror" src="https://github.com/user-attachments/assets/277fc404-466a-4d4c-b367-eaaee19b979d" />
+
+The last thing I had to worry about was creating a connection between the two different silhouettes. To do this I decided to make a cutout at the very bottom of the rocket and then a small cutout at the top of the rocket. The idea is that the bottom of this silhouette will slide over the top of the other, and they will connect with the two indents at the top.
+
+<img width="537" height="434" alt="silhouette_connection_top1" src="https://github.com/user-attachments/assets/d78fb5ed-4bd1-4cb0-a1ee-fc470ff45d89" />
+
+<img width="649" height="346" alt="silhouette_connection_bottom1" src="https://github.com/user-attachments/assets/49760783-a627-4a80-9f61-b8052837cbdf" />
+
+To make the second silhouette, I saved the previous file as is and then undid the previous step. To finish the connection points, I did the exact same thing as the previous step by opposite. For the top connection, I made the connection point on the top. For the bottom connection. it is just solid material for the other silhouette to slide over
+
+<img width="449" height="301" alt="silhouette_connection_top2" src="https://github.com/user-attachments/assets/d5e38d01-b540-4cf6-8940-547b515fdbf7" />
+
+Once I had both silhouettes finished, I extruded them by 0.114in (the thickness of our board) and then put them in an assembly. This will give a better understanding of what our vision for this rocket ship is like.
+
+<img width="307" height="469" alt="rocket_full" src="https://github.com/user-attachments/assets/c14c2a4d-3fbb-4313-8fa1-513a1859c06e" />
+
+That completes the CAD model for the silhouette. If you notice in the full picture of the sketch, there are dimensions show the diameter of the connection points. This was so Eshan knew what diameter the donuts had to be in order for all of our parts to fit correctly.
 
 ## Manufacturing
 
