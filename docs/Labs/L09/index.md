@@ -142,9 +142,9 @@ The image below shows the full Epilogue settings used to manufacture the rocket 
 
 <img width="389" height="321" alt="Screenshot 2026-11-13 234000" src="https://github.com/user-attachments/assets/2b3e2567-e2ff-4988-91e6-b1db5ae486ac" />
 
+The image below shows the parts once they were manufactured by the laser cutter and the video shows a short clip of that manufacturing process. 
 
-
-<img width="214" height="286" alt="IMG_3225 (1)" src="https://github.com/user-attachments/assets/ce83805e-83c5-47a9-9d35-4bc51adb1477" />
+<img width="348" height="337" alt="Screenshot 2026-11-14 000613" src="https://github.com/user-attachments/assets/d9d297f4-93a3-44e0-a57a-4f35ab47e050" />
 
 <iframe
   width="315"
@@ -157,11 +157,23 @@ The image below shows the full Epilogue settings used to manufacture the rocket 
   allowfullscreen>
 </iframe>
 
+Once manufactured, the some of the parts had slight burn marks but were in good condition overall. 
+
 ## Lessons Learned
 
 <img width="313" height="289" alt="Screenshot 2026-11-13 231651" src="https://github.com/user-attachments/assets/6ca23eaa-2383-4921-a551-5c9c394c529f" />
 
 Our biggest hurdle when completing this assignment was moving the CAD files onto Inkscape without messing up the dimensions. It took us about an hour to organize everything so that it fit onto a single wood sheet while retaining the size we wanted it to have so that the parts would correctly fit into each other. 
+
+### Reflection Prompts 
+
+**Prompt 1:** Our measued values varied from the nominal values when it came to the thickness of the board. This is extremely important because if we didn't account for the measured thickness, our parts would not have correctly fit together making it impossible to assemble our rocket.
+
+**Prompt 2:** Keeping Taguchi's quality loss function in mind, our small lower ring (the one attached to the inside of the frame) is works but is slightly too small. Although the attachments for all the rings were designed to have the same width, this specific ring is somehow a little too small. It still attaches but is slightly loose and can fall off if shaken too hard. If the part were made by the thousands, many rockets would be deemed incomplete since the ring would fall off of some of them. 
+
+**Prompt 3:** A real part that uses cut sheet parts joined by tabs and slots is a DIY birdhouse. A kerf/thickness error in this product would mean that the customer would not be able to fit all the parts together. Alternatively, if the attachments are too lose, the birdhouse may come apart due to strong wind or multiple bird occupants. 
+
+**Prompt 4:** If we had one more cut, we would resize the lower small ring so that it better attaches to the frame. 
 
 ### CAD Files
 
