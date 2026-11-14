@@ -38,11 +38,23 @@ The kerf is the amount of material the laser burns away and must be experimental
 
 **Y Direction Kerf:** 0.009 in
 
-For the rest of this assignment, we used the average of these two values for a kerf value of 0.008 in. 
+For the rest of this assignment, we used the average of these two values for a kerf value of 0.008 in. The images below show the dimensions of the square in SolidWorks and then what it looked like when we moved it onto the Inkscape and Epilogue softwares. 
+
+<img width="477" height="452" alt="Screenshot 2026-11-13 224342" src="https://github.com/user-attachments/assets/f503e72a-3998-4136-9e50-bf43a4141c7c" />
+
+<img width="468" height="382" alt="Screenshot 2026-11-13 224349" src="https://github.com/user-attachments/assets/196abf2b-4747-46f9-b8bb-365ea61cd96c" />
+
+<img width="465" height="387" alt="Screenshot 2026-11-13 224355" src="https://github.com/user-attachments/assets/8aa6d120-1126-43ed-9a37-16956ef07191" />
 
 ### Step 3: Run a Fit Test
 
-Next, we ran a fit test by lasering a square with slots of varying width. The goal of this is to find a slot width capable of press fitting the thickness of the wood plate. We created five slots in our lasered coupon. The middle slot is the nominal width and the two slots in either direction have widths increasing or decreasing by the measured kerf. After testing all the slots, we found the slot with a width two times our kerf to be a good fit. 
+Next, we ran a fit test by lasering a square with slots of varying width. The goal of this is to find a slot width capable of press fitting the thickness of the wood plate. We created five slots in our lasered coupon. The middle slot is the nominal width and the two slots in either direction have widths increasing or decreasing by the measured kerf. After testing all the slots, we found the slot with a width two times our kerf to be a good fit. The images below show the coupon in SolidWorks, Inkscape, and Epilogue softwares. The last image is the lasered coupon and the wood chip in the slot we decided to use for our clearance. 
+
+<img width="236" height="186" alt="Screenshot 2026-11-13 224759" src="https://github.com/user-attachments/assets/57e857f7-067c-4263-b9ba-1086f1b778dd" />
+
+<img width="235" height="180" alt="Screenshot 2026-11-13 224804" src="https://github.com/user-attachments/assets/02af8f36-a913-4d00-9adc-bbb34a3c7214" />
+
+<img width="241" height="201" alt="Screenshot 2026-11-13 224811" src="https://github.com/user-attachments/assets/309c0505-1f34-4acb-9cfc-30d7c65bc30d" />
 
 <img width="302" height="403" alt="IMG_3222" src="https://github.com/user-attachments/assets/64cf26f7-79f0-4376-9149-f4b5385f347c" />
 
