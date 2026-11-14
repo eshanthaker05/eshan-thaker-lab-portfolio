@@ -16,11 +16,11 @@
 
 We started by measuring the thickness of the board at three different places using a caliper and taking the average. 
 
-<img width="571" height="428" alt="IMG_3218" src="https://github.com/user-attachments/assets/7d51ab89-5882-4a6b-ae3d-a12c90e7d7b4" />
+<img width="286" height="214" alt="IMG_3218" src="https://github.com/user-attachments/assets/7d51ab89-5882-4a6b-ae3d-a12c90e7d7b4" />
 
 <img width="403" height="302" alt="IMG_3219" src="https://github.com/user-attachments/assets/964a6b9c-203d-4aa9-b517-360e9d2d2ff0" />
 
-<img width="571" height="428" alt="IMG_3221" src="https://github.com/user-attachments/assets/25556cf5-ae09-4d21-b7d3-3be59691366a" />
+<img width="286" height="218" alt="IMG_3221" src="https://github.com/user-attachments/assets/25556cf5-ae09-4d21-b7d3-3be59691366a" />
 
 **Thickness 1:** 0.114 in
 
@@ -52,9 +52,36 @@ Next, we ran a fit test by lasering a square with slots of varying width. The go
 
 As mentioned in the previous step, we chose a clearance of two times our measured kerf. This is because, unlike the other slots, this clearance firmly held our wood piece in place. The only other slot that came close was the clearance of one times our kerf, but after a few uses it wore down the slot so that it wasn't a good fit anymore. 
 
+After deciding on the clearance, we spent some time brainstorming an artifact to create with three unique parts. After searching the internet for inspiration, we ended up going with a simple rocket ship similar to the one shown below. We counted the two frames as one unique part, and each ring as its own unique part since they have to be modeled with different sizes. We also wanted all the rings to clip onto the outside of the frame, except the lowest one, to make the assembly easier. 
+
+<img width="426" height="421" alt="Screenshot 2026-11-13 210739" src="https://github.com/user-attachments/assets/403f72d0-24c8-48a8-a694-436377fe2bc7" />
+
+## Design
+
+My task in the design process was to design the rings that would attach onto the frame. We wanted five rings in total with two small rings, two medium rings, and one large ring. The rings would have to be designed in halves since the frame was going to cut through them. Unlike the other rings, the small ring at the bottom of the rocket was going to be attached from the inside of the frame to account for the shape of the frame and to maintain the overall aesthetics of the rocket. I began by inputting the clearance, kerf, and thickness into the parameters section. Using these values, I created equations to automatically set the inner and outer radius of each ring.  
+
+<img width="343" height="183" alt="Screenshot 2026-10-26 214013" src="https://github.com/user-attachments/assets/7a46d7b5-02aa-43af-8da8-9290c01a5951" />
+
+Using the parameters, I first designed the small bottom ring. This means that the opening had to be drawn on the inside of the semi-circle so that it could be attached on the inside of the frame, as shown in the image. 
+
+<img width="405" height="234" alt="Screenshot 2026-10-26 224856" src="https://github.com/user-attachments/assets/064fb831-7ecd-4260-9ceb-d7c1c720e01b" />
+
+Next, I designed the medium ring. Using the equations I set earlier, I just changed the radius values and updated my model. For the medium and large rings, the opening had to be drawn on the outside of the semi-circle since they were being attached on the outside of the frame. 
+
+<img width="276" height="153" alt="Screenshot 2026-10-26 224913" src="https://github.com/user-attachments/assets/156a1055-cb10-4b38-ab65-02689632afb6" />
+
+I repeated this step until I had a semi-circle for the large ring as well. 
+
+## Manufacturing
+
+
+
 ### Step 5: Cut and Assemble your Final Kit
 
-<img width="428" height="571" alt="IMG_3225 (1)" src="https://github.com/user-attachments/assets/ce83805e-83c5-47a9-9d35-4bc51adb1477" />
+
+
+
+<img width="214" height="286" alt="IMG_3225 (1)" src="https://github.com/user-attachments/assets/ce83805e-83c5-47a9-9d35-4bc51adb1477" />
 
 <iframe
   width="315"
