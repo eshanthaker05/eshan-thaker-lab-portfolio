@@ -136,6 +136,11 @@ That completes the CAD model for the silhouette. If you notice in the full pictu
 
 ## Manufacturing
 
+### Laser Process Record 
+
+The image below shows the full Epilogue settings used to manufacture the rocket parts. 
+
+<img width="389" height="321" alt="Screenshot 2026-11-13 234000" src="https://github.com/user-attachments/assets/2b3e2567-e2ff-4988-91e6-b1db5ae486ac" />
 
 
 
@@ -152,7 +157,22 @@ That completes the CAD model for the silhouette. If you notice in the full pictu
   allowfullscreen>
 </iframe>
 
+## Lessons Learned
 
+<img width="313" height="289" alt="Screenshot 2026-11-13 231651" src="https://github.com/user-attachments/assets/6ca23eaa-2383-4921-a551-5c9c394c529f" />
 
-## Communicate
+Our biggest hurdle when completing this assignment was moving the CAD files onto Inkscape without messing up the dimensions. It took us about an hour to organize everything so that it fit onto a single wood sheet while retaining the size we wanted it to have so that the parts would correctly fit into each other. 
 
+### CAD Files
+
+[Small Ring](https://drive.google.com/file/d/1grAaF8BN5TzrCPbwSBz29S3Z99mPXobD/view?usp=sharing)
+
+[Medium Ring](https://drive.google.com/file/d/1A-5FfaV92LVenOcZbf0-fTAHosnzkvkh/view?usp=sharing)
+
+[Large Ring](https://drive.google.com/file/d/1ARBXPCpWK4M76Ik4wog8PJ1q41OLHiTi/view?usp=sharing)
+
+[Rocket Frame](https://drive.google.com/file/d/17xBd0o1CJ5KtOfXyPbbrfIzl-TSTqVpP/view?usp=drive_link)
+
+[Full Rocket Assembly](https://drive.google.com/file/d/17xBd0o1CJ5KtOfXyPbbrfIzl-TSTqVpP/view?usp=drive_link)
+
+**Total Time:** 7.5 hours
