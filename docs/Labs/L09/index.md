@@ -70,6 +70,10 @@ After deciding on the clearance, we spent some time brainstorming an artifact to
 
 ## Design
 
+### Parameter Table 
+
+<img width="432" height="206" alt="Screenshot 2026-11-13 230038" src="https://github.com/user-attachments/assets/48f2ba7b-7343-42a4-bd35-2f7ec8bd02ab" />
+
 ### Outer Rings
 
 My task in the design process was to design the rings that would attach onto the frame. We wanted five rings in total with two small rings, two medium rings, and one large ring. The rings would have to be designed in halves since the frame was going to cut through them. Unlike the other rings, the small ring at the bottom of the rocket was going to be attached from the inside of the frame to account for the shape of the frame and to maintain the overall aesthetics of the rocket. I began by inputting the clearance, kerf, and thickness into the parameters section. Using these values, I created equations to automatically set the inner and outer radius of each ring.  
@@ -131,10 +135,6 @@ Once I had both silhouettes finished, I extruded them by 0.114in (the thickness 
 That completes the CAD model for the silhouette. If you notice in the full picture of the sketch, there are dimensions show the diameter of the connection points. This was so Eshan knew what diameter the donuts had to be in order for all of our parts to fit correctly.
 
 ## Manufacturing
-
-
-
-### Step 5: Cut and Assemble your Final Kit
 
 
 
