@@ -83,12 +83,48 @@ I then constrained the two parts together as seen below.
 
 ## Preprocessing
 
+**Machine Name:**  Humorous Petrel 
 
+**Resin:** Grey
+
+<img width="385" height="226" alt="Screenshot 2026-11-21 203614" src="https://github.com/user-attachments/assets/f6bbf0d3-a26c-47a9-8f97-94353b7e9317" />
+
+I decided to orient my artifacts this way because it would take the least amount of time to print while ensuring they were fully supported. To generate the supports, I used the auto-support feature and kept all the other settings at their defaults, as seen in the image above. This design is isotropic because a resin printer chemically bonds the resin together, giving it equal strength in all directions. 
 
 ## Postprocessing
 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/4nqJnwd_510"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+
+The video above shows the resin printer at work. 
+
+<img width="428" height="571" alt="IMG_3344" src="https://github.com/user-attachments/assets/766cd6ce-cd7f-4348-8dd4-3371add6863b" />
+
+<img width="571" height="428" alt="IMG_3345" src="https://github.com/user-attachments/assets/f8364164-f08f-4764-8ab8-eed498e6a31b" />
+
+After printing, I put my parts in the alcohol bath for around 10 minutes and let the material cure. Then, I took my parts out and scrapped the supports off. The surface was still slightly sticky so I used the alcohol spray bottles found in the Fab Lab to fully wash the surfaces. 
+
+The main difference between SLA and PLA parts is that SLA parts are isotropic, meaning they have the same strength regardless of which direction you apply force. PLA parts are printed layer by layer and are anisotropic, meaning that the strength along one direction is higher than the strength along a different dimension on that part. 
+
+## Validation
+
+<img width="428" height="571" alt="IMG_3375" src="https://github.com/user-attachments/assets/3520814b-7141-4bd9-bcac-deb5d57f97fe" />
+
+The image above shows me trying out my artifact by putting my tube of Aquaphor inside. The snap fit was very tight and took a while for me to undo. After snapping and unsnapping the lid, the parts wore down a little, making it easier for me to take off the lid. 
 
 ## Lessons Learned
+
+The main challenge that arose during this assingment was accounting for the shrinkage of the parts from the printing process and ensuring that they will still snap fit together. Researching about how to work around this taught me a lot about the SLA printing process as a whole. Compared to PLA snap fits, I find SLA snap fits to be a lot harder to design because of the sticky and rough surface texture of the parts after the curing process. This stickiness can be hard to fully wash off, adding additional friction between parts. Also, the printing process is much longer than the PLA printing process and also has more steps, such as the alcohol bath. 
+
+**Total Time Spent:** 7 hours
 
 ## References 
 
