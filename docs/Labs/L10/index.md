@@ -59,21 +59,45 @@ I then created a pointed edge by chamfering the two corners of the arm.
 <img width="295" height="225" alt="Screenshot 2026-11-10 003011" src="https://github.com/user-attachments/assets/9a481afc-5040-4aa7-9d77-bf31a2792242" />
 
 
-
-
 ## Preprocessing
 
+**Machine Name:** Humorous Petrel
 
+<img width="512" height="302" alt="Screenshot 2026-11-21 203349" src="https://github.com/user-attachments/assets/5a14d786-285c-45b6-9a90-2242b04b199a" />
+
+I decided to orient the parts as shown above because it was the lowest print time I could achieve. For the supports, I just had the software autogenerate them for me and I went with the default layer thickness of 0.050 mm. I left all the other parameters at their default settings as well and went to print. 
 
 ## Post-Processing
 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/4nqJnwd_510"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
 
+Shown above is a video of the resin printer beginning to print the artifact. 
+
+<img width="428" height="571" alt="IMG_3344" src="https://github.com/user-attachments/assets/6ec12422-6fd1-46c5-88db-9ca0895f70f6" />
+
+<img width="571" height="428" alt="IMG_3345" src="https://github.com/user-attachments/assets/51940d01-4455-433e-87c6-85c713042641" />
+
+After printing, I moved it over to the alcohol bath to sit in for around 10 minutes. Once it was done, I opened the tray and scrapped the supports off my artifacts. It came out a lot stickier than I was expecting and was kind of annoying to touch. 
 
 ## Fit Test
 
+<img width="302" height="403" alt="IMG_3373" src="https://github.com/user-attachments/assets/62b6ae24-30e5-44b0-b6a1-e648782b7d05" />
 
+I measured the dimensinons of my artifact using a caliper after printing, and the values were on the lower end of my expected tolerances. This made sense because of the shrinking that occurs during the printing and curing process. The spinner and the base ended up fitting a little tightly, but still worked. 
 
 ## Lessons Learned
 
+The main challenge with this assignment was operating the resin printer and making sure my calculations accounted for the shrinkage. After the printing process, the surface of my artifact was sticky, making it hard for the two parts to fit together. I fixed this by washing it with the alcohol liquid provided in the Fab Lab a bunch of times and drying it off with a paper towel. To improve my accuracy next time, I can design the parts to have larger tolerances to account for that stickiness post-print. 
+
+**Total Time Spent:** 6 hours
 
 
