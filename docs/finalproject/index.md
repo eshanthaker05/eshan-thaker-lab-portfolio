@@ -65,8 +65,8 @@ I started by reviewing my design process from when I originally made a phone sta
 <img width="476" height="357" alt="IMG_3386" src="https://github.com/user-attachments/assets/3ef6656e-52a5-46b7-9979-b0b2350fb159" />
 
 **Camera Slot Length**
-<img width="476" height="357" alt="IMG_3387" src="https://github.com/user-attachments/assets/d4527e1f-a09d-4656-9c34-778da7096da7" />
 
+<img width="476" height="357" alt="IMG_3387" src="https://github.com/user-attachments/assets/d4527e1f-a09d-4656-9c34-778da7096da7" />
 
 **Height:** 150.42 mm (I estimated this one a little because the caliper only measured up to 15 cm)
 
@@ -84,6 +84,7 @@ I started by reviewing my design process from when I originally made a phone sta
 
 **Camera Slot Length (Lc):** 48.84 mm
 
+Next, I integrated the feedback I recieved to come up with new prototype. In my original design, I foolishly printed only half the base to save time on printing, but failed to realize that this would destabalize the joints and stand mechanism. I also left most of the back portion uncovered since the phone would be propped up by squares in each corner. I wanted to change this by adding a slot in which I can insert a wooden plate for maximum support while remaining lightweight. 
 
 
 
